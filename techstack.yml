@@ -2,7 +2,7 @@ repo_name: dazeb/nefa
 report_id: 25d9979612d613abe9e2f5b0e227b195
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-11T19:09:43+00:00'
+timestamp: '2024-02-29T19:27:46+00:00'
 requested_by: RSurya99
 provider: github
 branch: main
@@ -131,7 +131,7 @@ tools:
   detection_source_url: https://github.com/dazeb/nefa
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.5.1
   license: MIT
